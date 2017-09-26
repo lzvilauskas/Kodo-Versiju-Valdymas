@@ -1,1 +1,1 @@
-1 uzduotis
+Pirma uzduotis
